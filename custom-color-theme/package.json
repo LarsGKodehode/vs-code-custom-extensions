@@ -5,6 +5,9 @@
   "publisher": "Zabronax",
   "version": "1.0.0",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/LarsGKodehode/vs-code-custom-extensions.git"
+  },
   "scripts": {
     "build": "mkdir -p build && rm -rf build/* && vsce package --out build/"
   },
